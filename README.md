@@ -2,15 +2,15 @@
 
 <h2>Initial DB Schema</h2>
 <h4>Databae schema</h4>
-<img src="https://github.com/heewon5602/twitter_db/assets/112792949/285be270-4460-474d-b926-e4a2a77ddcdc" height="70%" width="70%">
+<img src="https://github.com/heewon5602/twitter_db/assets/112792949/285be270-4460-474d-b926-e4a2a77ddcdc" height="50%" width="70%">
 
 
 <h4>Initial ER diagram</h4>
-<img src="https://github.com/heewon5602/twitter_db/assets/112792949/152905a2-4bb7-455d-a25e-c178a6c40adc" height="70%" width="70%">
+<img src="https://github.com/heewon5602/twitter_db/assets/112792949/152905a2-4bb7-455d-a25e-c178a6c40adc" height="50%" width="70%">
 
 
 <h4>Final DB Schema</h4>
-<img alt="image" src="https://github.com/heewon5602/team1_twitter/assets/112792949/c577d5cc-2f38-4b02-a014-fc1d64a6f8b1"  width="70%" >
+<img alt="image" src="https://github.com/heewon5602/team1_twitter/assets/112792949/c577d5cc-2f38-4b02-a014-fc1d64a6f8b1"  width="50%" >
 
 <h2>Functions</h2>
 <h4>LogIn/SignIn</h4>
