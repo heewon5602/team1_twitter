@@ -1,6 +1,6 @@
 # team1_twitter
 
-<h2>Initial DBSchema</h2>
+<h2>Initial DB Schema</h2>
 <h4>Databae schema</h4>
 <img src="https://github.com/heewon5602/twitter_db/assets/112792949/285be270-4460-474d-b926-e4a2a77ddcdc" height="70%" width="70%">
 
@@ -40,7 +40,7 @@
 
 
 <h4>Profile</h4>
-<img width="900" alt="image" src="https://github.com/heewon5602/team1_twitter/assets/112792949/69f1f8ec-54a2-46cd-82c4-6354503be59d" width="32%>
+<img width="32%" alt="image" src="https://github.com/heewon5602/team1_twitter/assets/112792949/69f1f8ec-54a2-46cd-82c4-6354503be59d" width="32%>
 
 
 <h4>Following/Follows</h4>
